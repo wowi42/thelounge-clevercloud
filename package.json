@@ -1,0 +1,21 @@
+{
+  "name": "thelounge-clevercloud",
+  "version": "4.3.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "./build.sh",
+    "start": "./run.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowi42/thelounge-clevercloud.git"
+  },
+  "author": "Loic Tosser <wowi42>",
+  "bugs": {
+    "url": "https://github.com/wowi42/thelounge-clevercloud/issues"
+  },
+  "homepage": "https://github.com/wowi42/thelounge-clevercloud#readme",
+  "dependencies": {
+    "thelounge": "4.3.0"
+  }
+}
