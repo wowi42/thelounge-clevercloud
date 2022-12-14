@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/wowi42/thelounge-clevercloud#readme",
   "dependencies": {
-    "thelounge": "4.3.0"
+    "thelounge": "4.3.1"
   }
 }
